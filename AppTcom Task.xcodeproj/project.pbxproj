@@ -121,7 +121,7 @@
 			children = (
 				AD5838CE1F952E8100CB5137 /* NetworkManager.swift */,
 				AD5838D01F9530F100CB5137 /* Parser.swift */,
-				AD5838CD1F952B0900CB5137 /* New Group */,
+				AD5838CD1F952B0900CB5137 /* Objects */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -151,12 +151,12 @@
 			name = "Table View Cells";
 			sourceTree = "<group>";
 		};
-		AD5838CD1F952B0900CB5137 /* New Group */ = {
+		AD5838CD1F952B0900CB5137 /* Objects */ = {
 			isa = PBXGroup;
 			children = (
 				AD5838C81F95274500CB5137 /* Athlete.swift */,
 			);
-			name = "New Group";
+			name = Objects;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
