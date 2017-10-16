@@ -13,7 +13,6 @@
 		AD5838B51F95241B00CB5137 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD5838B41F95241B00CB5137 /* Assets.xcassets */; };
 		AD5838B81F95241B00CB5137 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD5838B61F95241B00CB5137 /* LaunchScreen.storyboard */; };
 		AD5838C51F9526E200CB5137 /* AthleteDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5838C41F9526E200CB5137 /* AthleteDetailsViewController.swift */; };
-		AD5838C71F95272500CB5137 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5838C61F95272500CB5137 /* Constants.swift */; };
 		AD5838C91F95274500CB5137 /* Athlete.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5838C81F95274500CB5137 /* Athlete.swift */; };
 		AD5838CC1F95285B00CB5137 /* AthleteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5838CB1F95285B00CB5137 /* AthleteTableViewCell.swift */; };
 		AD5838CF1F952E8100CB5137 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD5838CE1F952E8100CB5137 /* NetworkManager.swift */; };
@@ -32,7 +31,6 @@
 		AD5838B71F95241B00CB5137 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD5838B91F95241B00CB5137 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD5838C41F9526E200CB5137 /* AthleteDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AthleteDetailsViewController.swift; sourceTree = "<group>"; };
-		AD5838C61F95272500CB5137 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		AD5838C81F95274500CB5137 /* Athlete.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Athlete.swift; sourceTree = "<group>"; };
 		AD5838CB1F95285B00CB5137 /* AthleteTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AthleteTableViewCell.swift; sourceTree = "<group>"; };
 		AD5838CE1F952E8100CB5137 /* NetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
@@ -91,7 +89,6 @@
 			isa = PBXGroup;
 			children = (
 				AD5838AD1F95241B00CB5137 /* AppDelegate.swift */,
-				AD5838C61F95272500CB5137 /* Constants.swift */,
 				AD5838C11F9525F500CB5137 /* Model */,
 				AD5838C01F9525E700CB5137 /* View */,
 				AD5838BF1F9525DD00CB5137 /* Controller */,
@@ -303,7 +300,6 @@
 				AD5838D11F9530F100CB5137 /* Parser.swift in Sources */,
 				AD5838AE1F95241B00CB5137 /* AppDelegate.swift in Sources */,
 				AD5838C51F9526E200CB5137 /* AthleteDetailsViewController.swift in Sources */,
-				AD5838C71F95272500CB5137 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
